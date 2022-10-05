@@ -19,6 +19,8 @@ jobs:
     name: Check status
     runs-on: ubuntu-20.04
     steps:
+      - name: List Github Actions
+        run: env
       - name: Checkout
         uses: actions/checkout@v2.3.3
         with:
