@@ -27,6 +27,3 @@ jobs:
         uses: upptime/uptime-monitor@v1.28.0
         with:
           command: "update"
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-          SECRETS_CONTEXT: ${{ toJson(secrets) }}
