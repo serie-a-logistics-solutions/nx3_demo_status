@@ -3,8 +3,8 @@ owner: serie-a-logistics-solutions # Your GitHub organization or username, where
 repo: upptime_test # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Nx3 Demo
+    url: https://backoffice.transport.test.nx3.io
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
