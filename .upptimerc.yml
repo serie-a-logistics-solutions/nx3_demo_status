@@ -18,8 +18,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: 	https://transport.test.nx3.io/assets/light_nx3.svg
   name: Status Page
-  introTitle: "This is the **Nx3** Status Page"
-  introMessage: Here you can see the status of different Nx3 Services
+  introTitle: "This is the **NX3** Status Page"
+  introMessage: Here you can see the status of different NX3 Services
   navbar:
     - title: Status
       href: /upptime_test/
