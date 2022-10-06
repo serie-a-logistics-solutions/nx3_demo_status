@@ -7,12 +7,14 @@ assignees: 'AnandChowdhary'
 
 ---
 
-<!-- If you have a question, you should use Discussions instead: https://github.com/upptime/upptime/discussions -->
-
 **Example**
+<!--
 start: 2022-10-24T13:00:00+00:00
 end: 2022-10-24T14:00:00+00:00
 expectedDown: NX3 Demo
+-->
+
+Short Maintenance Description
 
 **Description**
 The start and end keys are mandatory and should contain an ISO datetime with the start and ending time for the scheduled maintenance respectively.
