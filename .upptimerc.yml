@@ -5,12 +5,8 @@ repo: upptime_test # The name of this repository
 sites:
   - name: Nx3 Demo
     url: https://backoffice.transport.test.nx3.io
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Transporeon
+    url: http://nx3-transporeon-production.nxa3.net/admin/
 
 status-website:
   baseUrl: /upptime_test # where "repo" is your repository name
