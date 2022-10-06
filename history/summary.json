@@ -1,8 +1,8 @@
 [
   {
     "name": "Nx3 Demo",
-    "url": "https://backoffice.transport.test.nx3.io",
-    "icon": "https://icons.duckduckgo.com/ip3/backoffice.transport.test.nx3.io.ico",
+    "url": "https://transport.test.nx3.io/",
+    "icon": "https://icons.duckduckgo.com/ip3/transport.test.nx3.io.ico",
     "slug": "nx3-demo",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 567,
-    "timeDay": 567,
-    "timeWeek": 567,
-    "timeMonth": 567,
-    "timeYear": 567,
+    "time": 583,
+    "timeDay": 583,
+    "timeWeek": 583,
+    "timeMonth": 583,
+    "timeYear": 583,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nx3-transporeon-production.nxa3.net.ico",
     "slug": "transporeon",
     "status": "down",
-    "uptime": "81.33%",
-    "uptimeDay": "81.33%",
-    "uptimeWeek": "81.33%",
-    "uptimeMonth": "81.33%",
-    "uptimeYear": "81.33%",
+    "uptime": "8.85%",
+    "uptimeDay": "8.85%",
+    "uptimeWeek": "8.85%",
+    "uptimeMonth": "8.85%",
+    "uptimeYear": "8.85%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-06": 0
+      "2022-10-06": 5
     }
   }
 ]
