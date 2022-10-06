@@ -17,7 +17,6 @@ status-website:
   # cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   logoUrl: 	https://transport.test.nx3.io/assets/light_nx3.svg
-  theme: dark
   faviconSvg: https://transport.test.nx3.io/assets/light_nx3.svg
   name: NX3 Status Page
   introTitle: "This is the **NX3** Status Page"
