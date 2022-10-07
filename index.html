@@ -15,4 +15,21 @@
             );
           });
         }
-      } catch (error) {} </script> 
+      } catch (error) {}
+      
+      if (window.top!=window.self)
+      {
+        var head  = document.getElementsByTagName('head')[0];
+        var link  = document.createElement('link');
+        link.rel  = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'iframe.css';
+        link.media = 'all';
+        head.appendChild(link);
+      }
+      else
+      {
+        // Not in a frame
+      } 
+      
+    </script> 
