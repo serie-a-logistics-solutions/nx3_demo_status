@@ -18,14 +18,9 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: 	https://transport.test.nx3.io/assets/light_nx3.svg
   faviconSvg: https://transport.test.nx3.io/assets/light_nx3.svg
-  name: NX3 Status Page
-  introTitle: "**Service Status**"
+  name: Service Status
+  introTitle: ""
   introMessage: ""
-  navbar:
-    - title: Status
-      href: /nx3_demo_status/
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
