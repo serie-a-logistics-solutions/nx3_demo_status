@@ -18,7 +18,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: 	https://transport.test.nx3.io/assets/light_nx3.svg
   faviconSvg: https://transport.test.nx3.io/assets/light_nx3.svg
-  name: Service Status
+  name: System Status
   introTitle: ""
   introMessage: ""
 
