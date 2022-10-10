@@ -5,10 +5,10 @@ repo: nx3_demo_status # The name of this repository
 sites:
   - name: Node 1 - IAM (Keycloak)
     url: https://backoffice-transport-demo.on.nx3.cloud/auth/health
-    __dangerous__body_down_if_text_missing: '"status":"UP"'
+    __dangerous__body_down_if_text_missing: '"status": "UP"'
   - name: Node 2 - IAM (Keycloak)
     url: https://backoffice-transport-demo.on.nx3.cloud/auth/health
-    __dangerous__body_down_if_text_missing: '"status":"UP"'
+    __dangerous__body_down_if_text_missing: '"status": "UP"'
   - name: elasticsearch
     url: https://backoffice-transport-demo.on.nx3.cloud/auth/
   - name: Node 1 - Backoffice Service
