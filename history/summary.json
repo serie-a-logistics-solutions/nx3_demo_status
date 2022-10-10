@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/transport-demo.on.nx3.cloud.ico",
     "slug": "node-1-iam-keycloak",
     "status": "up",
-    "uptime": "36.66%",
-    "uptimeDay": "36.66%",
-    "uptimeWeek": "36.66%",
-    "uptimeMonth": "36.66%",
-    "uptimeYear": "36.66%",
-    "time": 408,
-    "timeDay": 408,
-    "timeWeek": 408,
-    "timeMonth": 408,
-    "timeYear": 408,
+    "uptime": "95.03%",
+    "uptimeDay": "95.03%",
+    "uptimeWeek": "95.03%",
+    "uptimeMonth": "95.03%",
+    "uptimeYear": "95.03%",
+    "time": 404,
+    "timeDay": 404,
+    "timeWeek": 404,
+    "timeMonth": 404,
+    "timeYear": 404,
     "dailyMinutesDown": {
       "2022-10-10": 15
     }
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/application-staging2.on.nx3.cloud.ico",
     "slug": "node-2-iam-keycloak",
     "status": "down",
-    "uptime": "35.61%",
-    "uptimeDay": "35.61%",
-    "uptimeWeek": "35.61%",
-    "uptimeMonth": "35.61%",
-    "uptimeYear": "35.61%",
+    "uptime": "2.79%",
+    "uptimeDay": "2.79%",
+    "uptimeWeek": "2.79%",
+    "uptimeMonth": "2.79%",
+    "uptimeYear": "2.79%",
     "time": 88,
     "timeDay": 88,
     "timeWeek": 88,
     "timeMonth": 88,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2022-10-10": 15
+      "2022-10-10": 301
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 234,
-    "timeWeek": 234,
-    "timeMonth": 234,
-    "timeYear": 234,
+    "time": 244,
+    "timeDay": 244,
+    "timeWeek": 244,
+    "timeMonth": 244,
+    "timeYear": 244,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 330,
-    "timeWeek": 330,
-    "timeMonth": 330,
-    "timeYear": 330,
+    "time": 279,
+    "timeDay": 279,
+    "timeWeek": 279,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 103,
-    "timeDay": 103,
-    "timeWeek": 103,
-    "timeMonth": 103,
-    "timeYear": 103,
+    "time": 97,
+    "timeDay": 97,
+    "timeWeek": 97,
+    "timeMonth": 97,
+    "timeYear": 97,
     "dailyMinutesDown": {}
   }
 ]
