@@ -14,11 +14,20 @@ sites:
   - name: Node 1 - Backoffice Service
     url: https://transport-demo.on.nx3.cloud/monitoring/node1/rs/actuator/health
     __dangerous__body_down_if_text_missing: '"description" : "",
-  "status" : "UP",'
+  "status" : "UP"'
   - name: Node 2 - Backoffice Service
     url: https://transport-demo.on.nx3.cloud/monitoring/node2/rs/actuator/health
     __dangerous__body_down_if_text_missing: '"description" : "",
-  "status" : "UP",'
+  "status" : "UP"'
+  - name: Node 1 - Database Service
+    url: https://transport-demo.on.nx3.cloud/monitoring/node1/rs/actuator/health
+    __dangerous__body_down_if_text_missing: '"database" : "PostgreSQL",
+        "validationQuery" : "isValid()"'
+  - name: Node 2 - Database Service
+    url: https://transport-demo.on.nx3.cloud/monitoring/node2/rs/actuator/health
+    __dangerous__body_down_if_text_missing: '"database" : "PostgreSQL",
+        "validationQuery" : "isValid()"'
+ 
 
 status-website:
   baseUrl: /nx3_demo_status # where "repo" is your repository name
