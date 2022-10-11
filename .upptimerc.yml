@@ -16,11 +16,10 @@ sites:
     __dangerous__body_down_if_text_missing: '"status" : "UP",'
   - name: Node 2 - Backoffice Service
     url: https://transport-demo.on.nx3.cloud/monitoring/node2/rs/actuator/health
-    __dangerous__body_down_if_text_missing: '"description" : "",\n"status" : "UP",'
+    __dangerous__body_down_if_text_missing: '"status" : "UP",'
   - name: Database Service
     url: https://transport-demo.on.nx3.cloud/monitoring/node1/rs/actuator/health
-    __dangerous__body_down_if_text_missing: '"database" : "PostgreSQL",
-        "validationQuery" : "isValid()"'
+    __dangerous__body_down_if_text_missing: '"validationQuery" : "isValid()"'
  
 
 status-website:
