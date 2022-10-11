@@ -1,7 +1,7 @@
-url: http://application-staging2.on.nx3.cloud:8088/auth/health/live
+url: https://transport-demo.on.nx3.cloud/monitoring/node2/auth/auth/health/live
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-10-11T08:08:35.686Z
+code: 502
+responseTime: 102
+lastUpdated: 2022-10-11T10:16:27.382Z
 startTime: Mon Oct 10 2022 14:51:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
