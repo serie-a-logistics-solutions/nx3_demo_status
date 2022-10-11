@@ -1,7 +1,7 @@
 url: https://transport-demo.on.nx3.cloud/monitoring/node1/auth/auth/health/live
 status: up
 code: 200
-responseTime: 378
-lastUpdated: 2022-10-11T11:54:50.399Z
+responseTime: 434
+lastUpdated: 2022-10-11T12:09:50.723Z
 startTime: Mon Oct 10 2022 14:51:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
