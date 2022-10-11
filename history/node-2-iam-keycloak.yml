@@ -1,7 +1,7 @@
 url: https://transport-demo.on.nx3.cloud/monitoring/node2/auth/auth/health/live
 status: down
 code: 502
-responseTime: 102
-lastUpdated: 2022-10-11T10:16:27.382Z
+responseTime: 101
+lastUpdated: 2022-10-11T10:18:26.720Z
 startTime: Mon Oct 10 2022 14:51:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
