@@ -4,17 +4,21 @@ repo: nx3_demo_status # The name of this repository
 
 sites:
   - name: Node 1 - IAM (Keycloak)
-    url: https://transport-demo.on.nx3.cloud/auth/health/live
+    url: https://transport-demo.on.nx3.cloud/monitoring/node1/auth/auth/health/live
     __dangerous__body_down_if_text_missing: '"status": "UP"'
   - name: Node 2 - IAM (Keycloak)
-    url: http://application-staging2.on.nx3.cloud:8088/auth/health/live
+    url: https://transport-demo.on.nx3.cloud/monitoring/node2/auth/auth/health/live
     __dangerous__body_down_if_text_missing: '"status": "UP"'
   - name: elasticsearch
     url: https://backoffice-transport-demo.on.nx3.cloud/auth/
   - name: Node 1 - Backoffice Service
-    url: https://transport-demo.on.nx3.cloud/
+    url: https://transport-demo.on.nx3.cloud/monitoring/node1/rs/actuator/health
+    __dangerous__body_down_if_text_missing: '"description" : "",
+  "status" : "UP",'
   - name: Node 2 - Backoffice Service
-    url: https://transport-demo.on.nx3.cloud/
+    url: https://transport-demo.on.nx3.cloud/monitoring/node2/rs/actuator/health
+    __dangerous__body_down_if_text_missing: '"description" : "",
+  "status" : "UP",'
 
 status-website:
   baseUrl: /nx3_demo_status # where "repo" is your repository name
