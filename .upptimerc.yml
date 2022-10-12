@@ -19,7 +19,7 @@ sites:
     url: https://transport-demo.on.nx3.cloud/monitoring/node1/rs/actuator/health
     __dangerous__body_down_if_text_missing: '"validationQuery" : "isValid()"'
   - name: Monitoring
-    url: https://transport-demo.kb.eu-west-1.aws.found.io
+    url: https://transport-demo.kb.eu-west-1.aws.found.io/login?next=%2Fapp%2Fhome#/
  
 
 status-website:
