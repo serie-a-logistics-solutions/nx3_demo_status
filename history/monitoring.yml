@@ -1,7 +1,7 @@
-url: https://transport-demo.kb.eu-west-1.aws.found.io
+url: https://transport-demo.kb.eu-west-1.aws.found.io/login?next=%2Fapp%2Fhome#/
 status: up
 code: 200
-responseTime: 481
-lastUpdated: 2022-10-11T23:06:08.121Z
+responseTime: 765
+lastUpdated: 2022-10-12T14:35:00.080Z
 startTime: Tue Oct 11 2022 12:51:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
