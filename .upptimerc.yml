@@ -19,7 +19,9 @@ sites:
     url: https://transport-demo.on.nx3.cloud/monitoring/node1/rs/actuator/health
     __dangerous__body_down_if_text_missing: '"validationQuery" : "isValid()"'
   - name: Monitoring
-    url: https://transport-demo.kb.eu-west-1.aws.found.io/login?next=%2Fapp%2Fhome#/
+    url: https://transport-demo.kb.eu-west-1.aws.found.io/login?next=%2Fapp%2Fhome#/ 
+  - name: EU-Licence-Classification Service
+    url: https://eulicence-classification.nx3-services.cloud/api/health_check
  
 
 status-website:
