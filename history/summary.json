@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2023-10-05": 139,
+      "2023-10-05": 150,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
@@ -361,7 +361,7 @@
     "timeMonth": 0,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2023-10-05": 139,
+      "2023-10-05": 150,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
@@ -740,7 +740,7 @@
     "timeMonth": 0,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2023-10-05": 139,
+      "2023-10-05": 150,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
@@ -1085,7 +1085,7 @@
     "timeMonth": 0,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2023-10-05": 139,
+      "2023-10-05": 150,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
@@ -1430,7 +1430,7 @@
     "timeMonth": 0,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2023-10-05": 139,
+      "2023-10-05": 150,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
@@ -1763,19 +1763,19 @@
     "url": "https://transport-demo.kb.eu-west-1.aws.found.io/login?next=%2Fapp%2Fhome#/",
     "icon": "https://icons.duckduckgo.com/ip3/transport-demo.kb.eu-west-1.aws.found.io.ico",
     "slug": "monitoring",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 570,
-    "timeDay": 538,
-    "timeWeek": 581,
-    "timeMonth": 602,
+    "timeDay": 509,
+    "timeWeek": 566,
+    "timeMonth": 597,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2023-10-05": 0
+      "2023-10-05": 11
     }
   },
   {
@@ -1795,7 +1795,7 @@
     "timeMonth": 0,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2023-10-05": 139,
+      "2023-10-05": 150,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
