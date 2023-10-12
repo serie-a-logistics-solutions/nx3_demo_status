@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/transport-demo.on.nx3.cloud.ico",
     "slug": "node-1-iam-service",
     "status": "down",
-    "uptime": "9.85%",
+    "uptime": "9.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "9.85%",
+    "uptimeYear": "9.71%",
     "time": 420,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 420,
+    "timeYear": 424,
     "dailyMinutesDown": {
-      "2023-10-11": 0,
+      "2023-10-12": 1,
+      "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -365,9 +366,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 107,
+    "timeYear": 108,
     "dailyMinutesDown": {
-      "2023-10-11": 0,
+      "2023-10-12": 1,
+      "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -730,8 +732,7 @@
       "2022-10-16": 1440,
       "2022-10-15": 1440,
       "2022-10-14": 1440,
-      "2022-10-13": 1440,
-      "2022-10-12": 1440
+      "2022-10-13": 1440
     }
   },
   {
@@ -740,18 +741,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/transport-demo.on.nx3.cloud.ico",
     "slug": "node-1-backoffice-service",
     "status": "down",
-    "uptime": "10.07%",
+    "uptime": "10.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "9.97%",
+    "uptimeYear": "9.72%",
     "time": 118,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 104,
+    "timeYear": 106,
     "dailyMinutesDown": {
-      "2023-10-11": 0,
+      "2023-10-12": 1,
+      "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -1080,8 +1082,7 @@
       "2022-11-19": 1440,
       "2022-11-18": 1440,
       "2022-11-17": 1440,
-      "2022-11-16": 705,
-      "2022-10-12": 36
+      "2022-11-16": 705
     }
   },
   {
@@ -1090,18 +1091,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/transport-demo.on.nx3.cloud.ico",
     "slug": "node-2-backoffice-service",
     "status": "down",
-    "uptime": "10.07%",
+    "uptime": "10.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "9.98%",
+    "uptimeYear": "9.73%",
     "time": 102,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 103,
+    "timeYear": 105,
     "dailyMinutesDown": {
-      "2023-10-11": 0,
+      "2023-10-12": 1,
+      "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -1430,8 +1432,7 @@
       "2022-11-19": 1440,
       "2022-11-18": 1440,
       "2022-11-17": 1440,
-      "2022-11-16": 705,
-      "2022-10-12": 12
+      "2022-11-16": 705
     }
   },
   {
@@ -1440,18 +1441,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/transport-demo.on.nx3.cloud.ico",
     "slug": "database-service",
     "status": "down",
-    "uptime": "9.87%",
+    "uptime": "9.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "9.87%",
+    "uptimeYear": "9.72%",
     "time": 102,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 102,
+    "timeYear": 104,
     "dailyMinutesDown": {
-      "2023-10-11": 1,
+      "2023-10-12": 1,
+      "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -1780,8 +1782,7 @@
       "2022-11-19": 1440,
       "2022-11-18": 1440,
       "2022-11-17": 1440,
-      "2022-11-16": 705,
-      "2022-10-12": 36
+      "2022-11-16": 705
     }
   },
   {
@@ -1796,10 +1797,10 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 573,
-    "timeDay": 631,
-    "timeWeek": 655,
-    "timeMonth": 625,
-    "timeYear": 573,
+    "timeDay": 860,
+    "timeWeek": 664,
+    "timeMonth": 631,
+    "timeYear": 574,
     "dailyMinutesDown": {
       "2023-10-05": 11
     }
@@ -1821,7 +1822,8 @@
     "timeMonth": 0,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2023-10-11": 1,
+      "2023-10-12": 1,
+      "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
