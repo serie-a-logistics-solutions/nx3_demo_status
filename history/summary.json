@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2023-10-21": 1338,
+      "2023-10-21": 1346,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
@@ -375,7 +375,7 @@
     "timeMonth": 0,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2023-10-21": 1338,
+      "2023-10-21": 1346,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
@@ -759,7 +759,7 @@
     "timeMonth": 0,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2023-10-21": 1338,
+      "2023-10-21": 1346,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
@@ -1118,7 +1118,7 @@
     "timeMonth": 0,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2023-10-21": 1338,
+      "2023-10-21": 1346,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
@@ -1477,7 +1477,7 @@
     "timeMonth": 0,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2023-10-21": 1338,
+      "2023-10-21": 1346,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
@@ -1824,19 +1824,19 @@
     "url": "https://transport-demo.kb.eu-west-1.aws.found.io/login?next=%2Fapp%2Fhome#/",
     "icon": "https://icons.duckduckgo.com/ip3/transport-demo.kb.eu-west-1.aws.found.io.ico",
     "slug": "monitoring",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 574,
-    "timeDay": 392,
-    "timeWeek": 649,
-    "timeMonth": 628,
+    "timeDay": 460,
+    "timeWeek": 643,
+    "timeMonth": 627,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2023-10-21": 0,
+      "2023-10-21": 9,
       "2023-10-13": 15,
       "2023-10-05": 11
     }
@@ -1858,7 +1858,7 @@
     "timeMonth": 0,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2023-10-21": 1338,
+      "2023-10-21": 1346,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
