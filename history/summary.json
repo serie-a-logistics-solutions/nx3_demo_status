@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/transport-demo.on.nx3.cloud.ico",
     "slug": "node-1-iam-service",
     "status": "down",
-    "uptime": "7.26%",
+    "uptime": "7.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 422,
+    "time": 424,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-18": 0,
+      "2024-02-19": 1,
+      "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
@@ -379,8 +380,7 @@
       "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
-      "2023-02-20": 1440,
-      "2023-02-19": 1440
+      "2023-02-20": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-18": 0,
+      "2024-02-19": 1,
+      "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
@@ -763,8 +764,7 @@
       "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
-      "2023-02-20": 1440,
-      "2023-02-19": 1440
+      "2023-02-20": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/transport-demo.on.nx3.cloud.ico",
     "slug": "node-1-backoffice-service",
     "status": "down",
-    "uptime": "7.43%",
+    "uptime": "7.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 105,
+    "time": 106,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-18": 0,
+      "2024-02-19": 1,
+      "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
@@ -1147,8 +1148,7 @@
       "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
-      "2023-02-20": 1440,
-      "2023-02-19": 1440
+      "2023-02-20": 1440
     }
   },
   {
@@ -1157,7 +1157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/transport-demo.on.nx3.cloud.ico",
     "slug": "node-2-backoffice-service",
     "status": "down",
-    "uptime": "7.43%",
+    "uptime": "7.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1168,7 +1168,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-18": 0,
+      "2024-02-19": 1,
+      "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
@@ -1531,8 +1532,7 @@
       "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
-      "2023-02-20": 1440,
-      "2023-02-19": 1440
+      "2023-02-20": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/transport-demo.on.nx3.cloud.ico",
     "slug": "database-service",
     "status": "down",
-    "uptime": "7.27%",
+    "uptime": "7.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 103,
+    "time": 104,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-18": 0,
+      "2024-02-19": 1,
+      "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
@@ -1915,8 +1916,7 @@
       "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
-      "2023-02-20": 1440,
-      "2023-02-19": 1440
+      "2023-02-20": 1440
     }
   },
   {
@@ -1925,18 +1925,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/transport-demo.kb.eu-west-1.aws.found.io.ico",
     "slug": "monitoring",
     "status": "down",
-    "uptime": "99.25%",
-    "uptimeDay": "73.76%",
-    "uptimeWeek": "96.25%",
-    "uptimeMonth": "88.59%",
-    "uptimeYear": "98.99%",
+    "uptime": "99.05%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "81.96%",
+    "uptimeMonth": "85.30%",
+    "uptimeYear": "98.72%",
     "time": 568,
-    "timeDay": 246,
-    "timeWeek": 444,
-    "timeMonth": 500,
-    "timeYear": 565,
+    "timeDay": 250,
+    "timeWeek": 391,
+    "timeMonth": 496,
+    "timeYear": 564,
     "dailyMinutesDown": {
-      "2024-02-18": 1,
+      "2024-02-19": 1,
+      "2024-02-18": 1440,
       "2024-02-17": 377,
       "2024-02-10": 1135,
       "2024-02-09": 1440,
@@ -1967,7 +1968,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-18": 1,
+      "2024-02-19": 1,
+      "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
@@ -2330,8 +2332,7 @@
       "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
-      "2023-02-20": 1440,
-      "2023-02-19": 1440
+      "2023-02-20": 1440
     }
   }
 ]
